@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/netuncle.iml" filepath="$PROJECT_DIR$/netuncle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netuncle-usermanager/netuncle-usermanager.iml" filepath="$PROJECT_DIR$/netuncle-usermanager/netuncle-usermanager.iml" />
     </modules>
   </component>
 </project>
